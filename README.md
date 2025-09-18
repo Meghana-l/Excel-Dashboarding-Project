@@ -45,9 +45,7 @@ Avg Rating = AVERAGE(Calls[Satisfaction Rating])
         Calls[Rating rounded] = 5
     )
 ```
-```DAX
-% 5 Star Calls := DIVIDE([5 Star Calls], [Call Count])
-```
+
 
 ## How to use
 
